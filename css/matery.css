@@ -1898,7 +1898,7 @@ footer .copy-right {
     display: none;
     position: fixed;
     right: 15px;
-    bottom: 50%;
+    bottom: 250px;
     padding-top: 15px;
     margin-bottom: 0;
     z-index: 998;
