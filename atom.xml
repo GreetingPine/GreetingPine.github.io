@@ -6,7 +6,7 @@
   <link href="https://greetingpine.github.io/atom.xml" rel="self"/>
   
   <link href="https://greetingpine.github.io/"/>
-  <updated>2022-06-01T05:00:33.471Z</updated>
+  <updated>2022-06-03T08:29:49.894Z</updated>
   <id>https://greetingpine.github.io/</id>
   
   <author>
@@ -17,14 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>02-基本数据类型</title>
-    <link href="https://greetingpine.github.io/posts/25401.html"/>
-    <id>https://greetingpine.github.io/posts/25401.html</id>
-    <published>2022-05-29T06:58:48.000Z</published>
-    <updated>2022-06-01T05:00:33.471Z</updated>
+    <title>vlog</title>
+    <link href="https://greetingpine.github.io/posts/20406.html"/>
+    <id>https://greetingpine.github.io/posts/20406.html</id>
+    <published>2022-06-03T06:01:43.000Z</published>
+    <updated>2022-06-03T08:29:49.894Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="音乐分享"><a href="#音乐分享" class="headerlink" title="音乐分享"></a>音乐分享</h2><p><button class="custom-btn btn-12"><span>断眉</span><span>Attention</span></button></p><link rel="stylesheet" type="text/css" href="../vlogcss/index.css"><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1Lv411P7qU&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div><br><p><button class="custom-btn btn-12"><span>林俊杰</span><span>我们的爱</span></button></p><link rel="stylesheet" type="text/css" href="../vlogcss/index.css"><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV14W411V7Dt&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div><br><p><button class="custom-btn btn-12"><span>林俊杰</span><span>除了你还能爱谁</span></button></p><link rel="stylesheet" type="text/css" href="../vlogcss/index.css"><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1Jb411u7b2&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div><h2 id="IDEA使用技巧"><a href="#IDEA使用技巧" class="headerlink" title="IDEA使用技巧"></a>IDEA使用技巧</h2><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1Lv411P7qU&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div><h2 id="IDEA使用技巧-1"><a href="#IDEA使用技巧-1" class="headerlink" title="IDEA使用技巧"></a>IDEA使用技巧</h2><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1JE411V765&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div><h2 id="IDEA使用技巧-2"><a href="#IDEA使用技巧-2" class="headerlink" title="IDEA使用技巧"></a>IDEA使用技巧</h2><!-- vlog模块 --><div style="    position: relative;     padding: 30% 45%;"    >     <iframe style="         position: absolute;         width: 100%;         height: 100%;         left: 0;         top: 0;"         src="//player.bilibili.com/player.html?aid=80181162&bvid=BV1JE411V765&cid=137214952&page=1&high_quality=1"         scrolling="no"         border="0"         frameborder="no"         framespacing="0"         allowfullscreen="true">     </iframe> </div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;音乐分享&quot;&gt;&lt;a href=&quot;#音乐分享&quot; class=&quot;headerlink&quot; title=&quot;音乐分享&quot;&gt;&lt;/a&gt;音乐分享&lt;/h2&gt;&lt;p&gt;&lt;button class=&quot;custom-btn btn-12&quot;&gt;&lt;span&gt;断眉&lt;/span&gt;&lt;span&gt;Attenti</summary>
+      
     
     
     
+    <category term="vlog" scheme="https://greetingpine.github.io/categories/vlog/"/>
     
     
   </entry>
